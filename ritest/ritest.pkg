@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ritest': Randomization inference and permutation tests, allowing for arbitrary randomization procedures with (almost) ritest With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ritest.ado
+f ritest.sthlp
